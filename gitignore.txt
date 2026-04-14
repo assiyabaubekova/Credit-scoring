@@ -1,0 +1,17 @@
+# Data files — download separately (see README)
+*.pq
+*.parquet
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
