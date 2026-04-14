@@ -5,8 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
----
-
 ## Results
 
 | Metric | Validation |
@@ -16,7 +14,6 @@
 | KS statistic | **0.26** |
 | Score range | **415 — 805** |
 
----
 
 ## What this project does
 
