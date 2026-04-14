@@ -46,9 +46,7 @@ Bad rate: ~3.1% (imbalanced — handled via `class_weight='balanced'`)
 ```
 credit-scoring/
 ├── credit_scoring.ipynb    # main notebook (10 sections)
-├── data/
-│   ├── P03_train.pq
-│   └── P03_test.pq
+├── data
 ├── scoring_results_final.csv
 ├── requirements.txt
 ├── .gitignore
