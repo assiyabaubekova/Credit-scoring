@@ -75,3 +75,6 @@ jupyter notebook credit_scoring.ipynb
 | `scikit-learn` | Logistic Regression, metrics |
 | `pandas` / `numpy` | Data manipulation |
 | `matplotlib` / `seaborn` | Visualization |
+
+## Visualizations
+![Model Analysis](visualization_credit.png)
