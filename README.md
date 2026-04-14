@@ -1,4 +1,3 @@
-# Credit-scoring
 # Credit Scoring: WoE Binning and Logistic Regression
 
 > Binary classification model predicting client default probability, built as a production-style scorecard.
